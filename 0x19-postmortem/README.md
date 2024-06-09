@@ -1,4 +1,5 @@
-Postmortem Report
+# Postmortem Report
+
 Issue Summary
 On May 5, 2024, at 08:30 AM (GMT), there was an unprecedented service disruption that lasted until 04:15 PM (GMT). Our flagship messaging service was affected, disrupting communication for 30% of our user base.
 
